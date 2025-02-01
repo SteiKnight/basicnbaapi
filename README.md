@@ -1,0 +1,3 @@
+# basicnbaapi
+
+Basic NBA API
